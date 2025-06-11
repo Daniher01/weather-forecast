@@ -50,5 +50,3 @@ weather-forecast/
 ```
 
 ---
-
-*Proyecto personal desarrollado para mantenerse informado sobre las condiciones meteorológicas en Málaga*
