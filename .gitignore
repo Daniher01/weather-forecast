@@ -4,6 +4,10 @@
 # Perso
 twilio_config.py
 
+python/
+*.rar
+*.zip
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
